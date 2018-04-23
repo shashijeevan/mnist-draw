@@ -6,7 +6,7 @@ Python 3.5+ is required for compatability with all required modules
 
 ```bash
 # Clone this repository
-git clone https://github.com/rhammell/mnist-draw.git
+git clone https://github.com/shashijeevan/mnist-draw.git
 
 # Go into the repository
 cd mnist-draw
